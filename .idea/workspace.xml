@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="092a7542-8780-47ff-8cee-b65823e4d18c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/New folder/student-app-restassured" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bjKem8aB6rSBEfe12zmNgwRDx0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="JUnit.GetRequest.getOptionsListUsers">
+    <configuration name="GetRequest.getOptionsListUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reqres-restAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.reqres.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="in.reqres.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="in.reqres.testsuite.GetRequest" />
+      <option name="METHOD_NAME" value="getOptionsListUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatchRequest.updateUserPatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reqres-restAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.reqres.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="in.reqres.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="in.reqres.testsuite.PatchRequest" />
+      <option name="METHOD_NAME" value="updateUserPatch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostRequest.loginSuccessful" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reqres-restAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.reqres.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="in.reqres.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="in.reqres.testsuite.PostRequest" />
+      <option name="METHOD_NAME" value="loginSuccessful" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostRequest.loginUnsuccessful" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reqres-restAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.reqres.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="in.reqres.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="in.reqres.testsuite.PostRequest" />
+      <option name="METHOD_NAME" value="loginUnsuccessful" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PutRequest.updateUserPut" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reqres-restAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.reqres.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="in.reqres.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="in.reqres.testsuite.PutRequest" />
+      <option name="METHOD_NAME" value="updateUserPut" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GetRequest.getOptionsListUsers" />
+        <item itemvalue="JUnit.PutRequest.updateUserPut" />
+        <item itemvalue="JUnit.PatchRequest.updateUserPatch" />
+        <item itemvalue="JUnit.PostRequest.loginUnsuccessful" />
+        <item itemvalue="JUnit.PostRequest.loginSuccessful" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="092a7542-8780-47ff-8cee-b65823e4d18c" name="Default Changelist" comment="" />
+      <created>1589140165262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589140165262</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/New folder/student-app-restassured" />
+      <path value="$PROJECT_DIR$/student-app-restassured" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1589150555324">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589150555324" />
+    <state x="308" y="281" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1589140998365">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="281" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589140998365" />
+    <state x="479" y="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1589141007805">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589141007805" />
+    <state width="1323" height="308" key="GridCell.Tab.0.bottom" timestamp="1589213607663">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="308" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589213607663" />
+    <state width="1323" height="205" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1589204133452" />
+    <state width="1323" height="308" key="GridCell.Tab.0.center" timestamp="1589213607662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="308" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589213607662" />
+    <state width="1323" height="205" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1589204133452" />
+    <state width="1323" height="308" key="GridCell.Tab.0.left" timestamp="1589213607662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="308" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589213607662" />
+    <state width="1323" height="205" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1589204133451" />
+    <state width="1323" height="308" key="GridCell.Tab.0.right" timestamp="1589213607663">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="308" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589213607663" />
+    <state width="1323" height="205" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1589204133452" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1589140869939">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1589140869939" />
+    <state x="1431" y="67" key="new project wizard" timestamp="1589196618130">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1431" y="67" key="new project wizard/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1589196618130" />
+  </component>
+</project>
